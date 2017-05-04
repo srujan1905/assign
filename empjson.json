@@ -1,4 +1,4 @@
- var obj = { "employee" :  [ 
+{ "employee" :  [ 
             { "name"  : "srujan", "mobile" : "35156466" },
             { "name"  : "srujan", "mobile" : "35158489466" },
 			{ "name"  : "srujan", "mobile" : "35156462266" },
